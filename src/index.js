@@ -1,3 +1,5 @@
+import './styles/main.css'
+
 class Game {
     name = 'Violin Charades'
 }
